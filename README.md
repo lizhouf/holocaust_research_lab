@@ -1,2 +1,2 @@
 # Holocaust Research Lab
-This Github repository is a code notebook cache of Holocaust Research Lab in UCLA led by Prof. Todd Presner. The current members of this lab include Anna Bonazzi, Rachael Deblinger, Lizhou (Leo) Fan, David Shepard, and Todd Presner.
+This Github repository is a code notebook cache of Holocaust Research Lab in UCLA led by Prof. Todd Presner. The current members of this lab include Anna Bonazzi, Rachael Deblinger, Lizhou (Leo) Fan, David Shepard, and Todd Presner. Some of the research progree of this lab can be found here: https://docs.google.com/spreadsheets/d/1rHfnFcp0igdl01gy-SqxpxfIhIlNnjOMGDZ2MYnNXuY/edit?usp=sharing
