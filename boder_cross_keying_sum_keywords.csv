@@ -1,0 +1,287 @@
+keyword,id_count,id_count_distinct
+Accidents,4,3
+Accusations,2,2
+Actors,1,1
+Adolescents,1,1
+Affidavits,2,1
+Agronomists,1,1
+Agudah,8,6
+Air Pollution,5,5
+Air raids,27,23
+Anesthetics,1,1
+Anschluss,1,1
+Anti-Semitism,2,2
+Appells,41,28
+Armies,2,2
+Architects,2,2
+“Aryans” & “Aryan” papers,15,15
+Assembly,5,5
+Asylum,2,2
+Basow,1,1
+Bathing,21,17
+Berig,1,1
+Bible,1,1
+Black Market,19,16
+B’nai B’rith Lodge,1,1
+Bolsheviks,1,1
+Books,5,5
+Brawls,8,8
+Bribery,14,11
+Broadcasts,3,3
+Brothels,1,1
+Bund,2,2
+Burials,13,11
+Burning alive,7,7
+Cannibalism,2,2
+Capos,4,4
+Cheka,1,1
+Chemist,1,1
+Chess,1,1
+Chicago Tribune,1,1
+Children,84,46
+Churches,11,9
+Clergy Catholic,3,3
+Clergy Greek Orthodox,2,2
+Clergy Jewish,3,3
+Clergy Protestant,1,1
+Clothing,48,29
+Collaborationism,13,13
+“Combat”,1,1
+Communication,25,24
+Communists,11,10
+Community councils,24,21
+Compelled wanton mistreatment,5,4
+Concealment,2,2
+Confessions,3,3
+Confiscations,31,24
+Convents,2,2
+Council of Elders,1,1
+Councils of liberation,1,1
+Crematories,42,28
+Cultural activities,8,8
+Curfew,8,8
+DAW industries,1,1
+Dead-handler,4,1
+Dead-handlers,12,11
+mistreatment,26,23
+Death marches,19,18
+Death sentences,1,1
+Delousing,3,3
+DEMA,1,1
+Dentists,1,1
+Deportations,55,42
+Deutsches Museum,3,3
+Disfranchisement,5,5
+Disinfection,6,5
+Dogs,18,17
+Dukhobors,2,2
+Dulag,1,1
+Dungeons,2,2
+Easter,1,1
+Education,8,8
+“Elders of Zion”,1,1
+Eintracht Lodge,1,1
+Emmigration,35,28
+Engineers,4,4
+English army,5,5
+Epidemics,25,21
+Escapes,25,21
+Evacuations,49,42
+Executions,17,12
+“Experimentation”,2,2
+Extermination,8,7
+Family,47,38
+Fences,4,4
+Flight,29,25
+Food,113,53
+Foraging,6,6
+Franciscan order,1,1
+“Freedom of Russia”,1,1
+French army,3,3
+Frick industries,1,1
+“Frontiere”,1,1
+Gaon of Vilna,1,1
+Gas Killings,23,21
+Gestapo,37,29
+Ghetto,43,38
+Goethe’s Oak,2,2
+GPU,2,2
+“Grand Hotel” Hospital,1,1
+“Hachahara”,1,1
+Hair cutting and shaving,27,23
+HASAG,1,1
+Hefke,1,1
+Heinkel,2,2
+Hermann Goehring works,2,2
+HIAS,3,3
+Hiding,9,5
+410,23,17
+Hitler youth,2,2
+Hospitals,28,24
+Hostages,4,4
+Housing,23,19
+Hygiene,7,7
+Ichud-Kibbutz,1,1
+I.G. Farben,3,3
+Illness,40,30
+Industrial accidents,8,8
+Injections,7,6
+Injury,1,1
+Insanity,4,4
+Insignia,4,4
+Insults,8,7
+Intellectuals,2,2
+Intermarriage,6,5
+Interrogation,3,3
+Intimidations,2,2
+JDC,2,2
+Jehovah’s Witnesses,2,2
+Jewelry,3,3
+Joint,18,14
+Juveniles,21,17
+Khasids,1,1
+Kibbutzim,2,2
+Killings,63,39
+Klinker industries,1,1
+Krupp industries,1,1
+Land distribution,2,2
+Lawlessness,1,1
+Lawyer,1,1
+Leitz Works,1,1
+Liberation,43,43
+Lice,13,11
+Living conditions,1,1
+Looting,26,23
+Lutherans,1,1
+Manufacturer,1,1
+Maquis,3,2
+Marital taboos,1,1
+Medical care,17,15
+Mennonites,18,2
+Menstruation,1,1
+Ministerial councillor,1,1
+Military operations and zones,31,24
+“Mischlings”,1,1
+Mockery,22,15
+Molokans,1,1
+Monasteries,2,2
+Money,6,6
+Mortality,3,3
+Music,1,1
+Mussulmen,4,4
+Neue (Freie) Presse,2,1
+NeXach Yisroeil,1,1
+NKVD,1,1
+NSZ,1,1
+Nuremburg Laws,1,1
+Nuremburg Trails,1,1
+Old people,36,29
+OPEJ,2,1
+ORT,25,22
+OSE,5,5
+Out-group status,17,17
+Overcrowding,2,2
+Painter,1,1
+Panic,1,1
+Partisans,13,11
+Passover,4,4
+Passports,11,9
+Perfidy,31,24
+Personality,6,4
+Physicians,2,2
+Physical mistreatment,65,39
+Poelitz industries,1,1
+Pogroms,15,14
+Police,35,26
+Polish army,2,2
+Polish Stalag A,1,1
+Posters,9,8
+Pregnancy and childbirth,2,2
+Prisoners of war,8,7
+Prisoners political,11,10
+Privacy,6,5
+Professional criminals,8,8
+Propaganda,1,1
+Property,2,2
+Prostitutes,1,1
+Punishment,31,20
+Punitive sports and postures,14,10
+Purim,1,1
+Quarantine,9,9
+Quotas,1,1
+Race pollution,2,2
+Radio,7,7
+Raids,34,28
+Rape,3,3
+Rebellion,24,17
+Red Cross,21,16
+Refuge,10,9
+Rehabilitation,29,26
+Religion,18,12
+Resistance,2,2
+Rights,6,5
+Rodanitza,1,1
+SA,2,2
+SD,1,1
+SS,43,29
+Sabbatarianism,1,1
+Sabotage,9,8
+Salvage,13,12
+Sanitation,16,13
+Screaming,20,15
+Searches,17,15
+SEK,1,1
+“Selections”,56,39
+Sexual behavior,7,5
+Shelter,1,1
+Shevout,1,1
+Shultz’s ‘shop’,1,1
+Silesian,1,1
+Sleeping conditions,48,33
+Songs,7,6
+Starvation,34,21
+Stealing,16,16
+Succor,15,15
+Suicide,16,16
+Sukkoth,2,2
+Synagogues,4,3
+Takhakos: Bechukotay and Ki-Tahbo,1,1
+TAT test,8,8
+Tattoos,22,18
+Teacher,5,5
+Teeth,6,6
+Thirst,24,18
+Thyssen,1,1
+Todt,1,1
+Toilet facilities,7,6
+Torture,8,7
+Tradate,5,4
+Transit camps,4,3
+Travel,99,48
+Trusties,7,6
+Turncoats,1,1
+Underground,3,3
+UNRRA,33,25
+UNRRA University,4,3
+Uprisings,2,2
+Urine,3,3
+U.S. Armies,12,12
+Utilization of corpses,1,1
+Vaad Hatzala,4,4
+Vermin,10,9
+Vida,2,2
+Wamdering,6,6
+Washing,16,12
+Water,11,11
+Weapons,5,4
+Weather,41,28
+Wehrmacht,7,7
+Wills,1,1
+Work,100,47
+X-Rays,1,1
+“Yellow Labor”,1,1
+Yellow star,23,21
+Yeshivas,6,4
+Yom Kippur,5,5
+Zionists,2,2
+Z.P.B.,1,1
